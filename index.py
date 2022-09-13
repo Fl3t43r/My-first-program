@@ -1,2 +1,7 @@
 print('Hello')
-print('Wprld')
+print('World')
+
+a = 5
+b = 3
+
+print(a + b)
